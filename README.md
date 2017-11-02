@@ -3,7 +3,7 @@ Load sharing of generators with FLAPC based priority using backpropagation. Each
 This python program allows the user to enter 'N' generators and load variation for 24 hours. All values that fall within the maximum generation limits will yield one or more feasible states or terminate the run time if cumilative maximum generation is not able to meet the hour's demand.
 
 ## Packages used
-1. PrettyTable ![https://pypi.python.org/pypi/PrettyTable]
+1. [PrettyTable](https://pypi.python.org/pypi/PrettyTable)
 
 ## Instructions
 1. Clone or download the project repository as zip. 

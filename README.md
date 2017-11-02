@@ -8,6 +8,6 @@ This python program allows the user to enter 'N' generators and load variation f
 ## Instructions
 1. Clone or download the project repository as zip. 
 2. `cd` to the repo and edit the `generator_env.py` file with required load and generator values
-3. run `python unit.py` to get the values of generation over load variation in 24 hours
+3. run `python unit.py` to get the values of generation over load variation of 24 hours
 
 Feel free to contribute!
